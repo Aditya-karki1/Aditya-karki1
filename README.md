@@ -1,94 +1,109 @@
-<h1 align="center">Hi 👋, I'm Aditya Karki</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer | B.Tech IT @ AIT Pune</h3>
+<div align="center">
 
-<p align="center">
-Passionate about building impactful software, solving challenging problems, and turning ideas into real-world products.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Karki&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=62&descAlign=50" />
 
----
-
-### 🚀 About Me
-
-- 🎓 B.Tech in Information Technology — **Army Institute of Technology, Pune**
-- 💻 Interested in **Full Stack Development & Backend Systems**
-- 🧠 Competitive Programmer (HackerRank ⭐⭐⭐⭐⭐ | CodeChef ⭐⭐ | Codeforces)
-- 🏆 Regular **Hackathon Participant**
-- 🌱 Currently learning **Backend Architecture & DevOps**
-- 🤝 Looking to **collaborate on Open Source**
-- 📫 Reach me at **adityakarki20247505@gmail.com**
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/aditya-karki-6b6917289" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:adityakarki20247505@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
+  <img src="https://komarev.com/ghpvc/?username=aditya-karki1&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aditya-karki1?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
 </p>
 
-#### Frontend
+</div>
+
+---
+
+## 🧑‍💻 About Me
+```typescript
+const aditya = {
+  name:        "Aditya Karki",
+  location:    "India 🇮🇳",
+  role:        "Full Stack Developer",
+  focus:       ["Backend Development", "Cloud Architecture", "API Design"],
+  learning:    ["DevOps", "System Design", "Microservices"],
+  lookingFor:  "Open Source Collaborations",
+  contact:     "adityakarki20247505@gmail.com",
+  funFact:     "I debug with console.log and I'm not ashamed 😄",
+};
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya-karki1&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1" alt="Trophies" />
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" />
 </p>
 
-#### Backend
+### ⚙️ Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,python,mongodb,mysql,postgres" />
 </p>
 
-#### Databases
+### ☁️ Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" />
 </p>
 
-#### Tools & Cloud
+### 🛠️ Tools & Design
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp,postman" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,linux" />
+</p>
+
+### 💡 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-karki1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-karki1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-karki1&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-karki1&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-karki1&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-karki1&theme=algolia&margin-w=10&margin-h=10"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-karki1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 👀 Profile Views
+## 📈 Contribution Graph
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=aditya-karki1&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-karki1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-⭐ **"Always learning, always building."**
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-karki-6b6917289)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakarki20247505@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-karki1)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
