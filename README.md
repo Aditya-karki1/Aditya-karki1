@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Karki&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=62&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Karki&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CP%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=62&descAlign=50" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=aditya-karki1&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
@@ -15,7 +15,6 @@
 ```typescript
 const aditya = {
   name:        "Aditya Karki",
-  location:    "India 🇮🇳",
   role:        "Full Stack Developer",
   focus:       ["Backend Development", "Cloud Architecture", "API Design"],
   learning:    ["DevOps", "System Design", "Microservices"],
@@ -62,18 +61,7 @@ const aditya = {
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-karki1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-karki1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-karki1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
